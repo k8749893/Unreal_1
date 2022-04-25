@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-project_2_01.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\git\project_2_01\project_2_01\Intermediate\Build\Win64\project_2_01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\git\project_2_01\project_2_01\Intermediate\Build\Win64\UE4Editor\Development\project_2_01\project_2_01.cpp.obj"
+"D:\git\project_2_01\project_2_01\Intermediate\Build\Win64\UE4Editor\Development\project_2_01\project_2_01GameModeBase.cpp.obj"
+"D:\git\project_2_01\project_2_01\Intermediate\Build\Win64\UE4Editor\Development\project_2_01\project_2_01.init.gen.cpp.obj"
+"D:\git\project_2_01\project_2_01\Intermediate\Build\Win64\UE4Editor\Development\project_2_01\project_2_01GameModeBase.gen.cpp.obj"
+"D:\git\project_2_01\project_2_01\Intermediate\Build\Win64\UE4Editor\Development\project_2_01\Default.rc2.res"
+/OUT:"D:\git\project_2_01\project_2_01\Intermediate\Build\Win64\UE4Editor\Development\project_2_01\UE4Editor-project_2_01.lib"
